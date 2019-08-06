@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Household Assembly and Repair
 
-You can use the [editor on GitHub](https://github.com/willnalls/sampleme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[This is a website link.](https://github.com/willnalls/sampleme/edit/master/README.md)
+Welcome to Assembly and Minor Repair.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We help with small jobs around the house -- assembly, disassembly, repair, removal, and more.  
 
 ### Markdown
 
